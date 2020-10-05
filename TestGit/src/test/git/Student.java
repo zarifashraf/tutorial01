@@ -12,8 +12,8 @@ public class Student {
 		return name;
 	}
 
-	public void setName(String studentName) {
-		this.name = studentName;
+	public void setName(String mystudentName) {
+		this.name = mystudentName;
 	}
 	
 }
